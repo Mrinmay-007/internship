@@ -1,2 +1,7 @@
 Notebook 1 Colab link  -  https://colab.research.google.com/drive/1ioEFvK8PussDSa7C8slujXy1yP00p5QV?usp=drive_link
 Notebook 1 Colab link  - https://colab.research.google.com/drive/1Lj_ywc9q86OzSOTNErI2u0te5eOjTjgo?usp=drive_link
+
+install pandas , matplotlib
+
+pip install pandas
+pip intall matplotlib
